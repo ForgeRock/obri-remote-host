@@ -1,0 +1,11 @@
+# Hosts File: openbanking
+
+127.0.0.1		auth.dev-ob.forgerock.financial metrics.dev-ob.forgerock.financial service.metrics.dev-ob.forgerock.financial bank-ui.dev-ob.forgerock.financial service.bank.dev-ob.forgerock.financial dev-ob.forgerock.financial service.directory.dev-ob.forgerock.financial directory.dev-ob.forgerock.financial jwkms.dev-ob.forgerock.financial shop-store.dev-ob.forgerock.financial zuul.forgerock.financial rs-store.aspsp.dev-ob.forgerock.financial rs.aspsp.dev-ob.forgerock.financial shop.dev-ob.forgerock.financial zuul.dev-ob.forgerock.financial account.dev-ob.forgerock.financial aspsp.dev-ob.forgerock.financial db.dev-ob.forgerock.financial bank.dev-ob.forgerock.financial rcs.aspsp.dev-ob.forgerock.financial tpp.dev-ob.forgerock.financial rs.dev-ob.forgerock.financial payment.rs.dev-ob.forgerock.financial zipkin.dev-ob.forgerock.financial config.dev-ob.forgerock.financial payments-store.rs.dev-ob.forgerock.financial eureka.dev-ob.forgerock.financial admin.dev-ob.forgerock.financial
+
+127.0.0.1		simulator.rs.aspsp.dev-ob.forgerock.financial docs.dev-ob.forgerock.financial tpp.sample.ob.forgerock.financial ig.forgerock.financial matls.as.aspsp.dev-ob.forgerock.financial as.aspsp.dev-ob.forgerock.financial swagger.dev-ob.forgerock.financial scgw.dev-ob.forgerock.financial
+
+127.0.0.1		swagger monitoring as-api rs-ui rs-api rs-rcs rs-store rs-simulator scgw admin config metrics-services swagger-ui docs jwkms directory-services tpp shop account
+
+# Hosts File: openbanking-am-local
+
+192.168.66.11	openam openbanking am.dev-ob.forgerock.financial directory.obie
